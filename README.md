@@ -1,2 +1,2 @@
-# Ouroveon-build
-Builds repo for install &amp; update service
+# Ouroveon Build Distribution
+This contains the current prebuilt binaries for the OUROVEON toolset.
