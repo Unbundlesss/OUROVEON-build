@@ -13,3 +13,11 @@ initial public release
 * fix rare LORE playback crash in instant-transition mode
 * refactor _Endlesss Exchange_ data format and IPC setup, move to Core app layer
 * added `xtras\antenna` demo app for receiving and using _Endlesss Exchange_ data in totally separate app
+
+### **0.6.2 (2022/02/13)**
+
+* rewrite jam viewer rendering to cope with enormous jams on weaker GPU hardware
+* rewrite jam browser, add public-archive snapshot data siphoned from Discord/etc
+* database query optimisation
+* riff playback thread optimisation
+
