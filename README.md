@@ -21,3 +21,14 @@ initial public release
 * database query optimisation
 * riff playback thread optimisation
 
+### **0.6.3 (2022/03/06)**
+
+* major cross-platform work; initial MacOS Universal builds
+* new common async processor for sample-processors
+* sample-processor installation refactored
+* improvements and OPUS tuning UI for Discord streaming
+* specific audio buffer selection on boot-up
+* tidy up transition-lock UI in preview mixer
+* numerous 3rd party library upgrades
+* initial support for Superluminal performance telemetry
+
