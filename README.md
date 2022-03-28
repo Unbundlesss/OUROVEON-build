@@ -32,3 +32,12 @@ initial public release
 * numerous 3rd party library upgrades
 * initial support for Superluminal performance telemetry
 
+### **0.6.4 (2022/03/28)**
+
+* signed, notarised MacOS builds being produced
+* fixes and file reshuffling for running as stand-alone app containers on MacOS
+* LORE transition fixes for occasional pops
+* LORE transition has small, fixed window of per-sample blending to help paper over any major changes between riffs
+* FLAC export bug fixed with trailing data
+* preview mixer UI expanded with more [repeat] options
+* data warehouse UI improvements for 'busy' and 'active' jams
